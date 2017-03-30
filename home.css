@@ -1,0 +1,154 @@
+body{
+    font-family: 'Arimo',sans-serif;
+}
+
+h1{
+    font-family: 'Arimo',sans-serif;
+    padding: 10;
+    font-size: 12px
+}
+
+li{
+    font-family: 'Arimo',sans-serif;
+}
+
+.supernav{
+    margin-left: 130;
+    margin-top: -1em
+}
+
+#navbar ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+#navbar ul li{
+    display: inline;
+}
+
+#navbar ul li a{
+    text-decoration: none;
+    padding: .2em 1em;
+    color: black;
+}
+
+#navbar ul li a:hover{
+    color: 7A8988;
+}
+
+.logo{
+    background-color: CADBC8;
+    padding: 20px
+    
+}
+
+.leechu{
+    margin-left:20px;
+}
+
+.text{
+    margin-left: 140px;
+    margin-top: 40px;
+    margin-right: 400px;
+    font-family: 'Arimo',sans-serif;
+    background-color: 8FC19E;
+    padding: 20
+}
+
+p1{
+    font-size: 22px;
+}
+
+p2{
+    font-size: 14px;
+}
+
+.contact{
+    font-size: 22px;
+}
+
+#youtube a{
+    text-decoration: none;
+    color: black
+}
+
+.picture{
+    margin-left: 710px;
+    margin-right:140px;
+    margin-top: -362px;
+    background-color: 8FC19E;
+    padding:10px
+}
+
+.container{
+    height:60%;
+    width: 60%;
+}
+
+.third{
+    float: left;
+    width: 210px;
+    background-color: 8FC19E;
+    padding: 10px;
+    padding-top: 200px;
+    margin-right: 20.5px;
+    margin-left: 20.5px;
+    margin-top: 10px;
+    text-align: left;
+    background-image: url(images/drawing%20performance.jpg);
+    background-size: cover;
+    text-decoration: none;
+    color: black;
+}
+
+.second{
+    float: left;
+    width: 210px;
+    background-color: 8FC19E;
+    padding: 10px;
+    padding-top: 200px;
+    margin-left: 20.5px;
+    margin-right: 20.5px;
+    margin-top: 10px;
+    text-align: left;
+    background-image: url(images/cube%20house.jpg);
+    background-size: cover;
+    text-decoration: none;
+    color: black;
+}
+
+.first{
+    float:left;
+    width: 210px;
+    background-color: 8FC19E;
+    padding: 10px;
+    padding-top: 200px;
+    margin-left: 20.5px;
+    margin-right: 20.5px;
+    margin-top: 10px;
+    text-align: left;
+    text-decoration: none;
+    color: black;
+}
+
+.container{
+    margin-top: 30px;
+    width:76.5%;
+    font-family: 'Arimo',sans-serif;
+}
+
+.third:hover{
+    opacity: 0.6;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.second:hover{
+    opacity: 0.6;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.first:hover{
+    opacity: 0.6;
+    transition: opacity 0.3s ease-in-out;
+}
