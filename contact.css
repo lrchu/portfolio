@@ -7,7 +7,7 @@ html{
     padding: 20px;
     padding-top: 25px;
     margin: 10px;
-    background-color: 7DA36C;
+    background-color: 7DA36C; 
 }
 
 #topnav ul{
@@ -30,4 +30,14 @@ html{
 
 #topnav ul li a:hover{
     color: CADBC8;
+}
+
+.aboutme{
+    padding: 50px;
+    padding-bottom: 90px;
+    margin-right: 145px;
+    margin-left: 145px;
+    margin-top: 40px;
+    background-color: #B6B7B6;
+    background-size: cover;
 }
