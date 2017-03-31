@@ -1,0 +1,42 @@
+html{
+    font-family: 'Arimo',sans-serif;
+    letter-spacing: .5px;
+}
+
+.logo{
+    padding: 20px;
+    margin: 10px;
+    background-color: 7DA36C;
+    
+}
+
+#topnav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin-top: 15px;
+}
+
+#topnav ul li{
+    display: inline;
+}
+
+#topnav ul li a{
+    text-decoration: none;
+    padding: 1em;
+    color: black;
+}
+
+#topnav ul li a:hover{
+    color: CADBC8;
+}
+
+.aboutme{
+    padding: 50px;
+    margin-right: 145px;
+    margin-left: 145px;
+    margin-top: 40px;
+    background-color: #B6B7B6;
+    background-size: cover;
+}
